@@ -21,6 +21,6 @@ I'm also an early adopter of AI-augmented development - I use Claude Code as a d
 I take on a limited number of evening/weekend projects. If you've got a scoped piece of .NET or AWS work, feel free to get in touch.
 https://www.linkedin.com/in/danjourno/
 
-Buy Me A Coffee at https://buymeacoffee.com/danjourno
+Help me pay for my Claude tokens which I use to contribute faster to open source projects at https://buymeacoffee.com/danjourno
 
 📍 Manchester, UK · 💼 Open to select freelance work
