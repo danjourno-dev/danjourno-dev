@@ -17,10 +17,10 @@ I work full-time as a backend engineer and take on **select freelance projects i
 
 I'm also an early adopter of AI-augmented development - I use Claude Code as a daily workflow.
 
+Help me pay for my Claude tokens (used to contribute to Open Source projects) at https://buymeacoffee.com/danjourno
+
 ### Want to work together?
 I take on a limited number of evening/weekend projects. If you've got a scoped piece of .NET or AWS work, feel free to get in touch.
 https://www.linkedin.com/in/danjourno/
-
-Help me pay for my Claude tokens which I use to contribute faster to open source projects at https://buymeacoffee.com/danjourno
 
 📍 Manchester, UK · 💼 Open to select freelance work
